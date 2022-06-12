@@ -1,0 +1,23 @@
+Morblang syntax drawing board. - 06/12/2022. 12:17 am. I made pizza rolls, ate 2, and forgot about them. They're cold now.
+
+[__v(-_-)v__] Single-line comment in morblang.
+
+[__v(^_^)v__]
+    Multi-line comment
+    in morblang.
+[__v(v_v)v__]
+
+
+[__v(^_^)v__]
+Function evocation in morblang. All functions must go through `MORBIN_TIME`.
+At compile-time, you can specify `Morbponents`. Each `Morbponent` will execute each time
+a function is executed.
+
+This is optimal probably.
+[__v(v_v)v__]
+MORBIN_TIME(function_name(param1, param2))!
+
+[__v(-_-)v__] Conditional in morblang.
+IF |imGay| MORB
+    MORBIN_TIME(function_name(param1, param2))!
+BROM
